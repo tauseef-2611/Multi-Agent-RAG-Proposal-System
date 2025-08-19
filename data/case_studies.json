@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Enterprise E-commerce Platform for TechRetail",
+    "industry": "technology",
+    "project_type": "web_application",
+    "description": "Built a scalable e-commerce platform with advanced analytics, mobile responsiveness, integrated payment processing, inventory management, and customer relationship management",
+    "technologies": ["React.js", "Node.js", "PostgreSQL", "Redis", "AWS", "Stripe"],
+    "results": "300% increase in online sales, 50% better conversion rate, reduced cart abandonment by 35%",
+    "duration_weeks": 12,
+    "complexity": "complex",
+    "budget_range": "$40,000 - $50,000"
+  },
+  {
+    "title": "HIPAA-Compliant Healthcare Portal for MedGroup",
+    "industry": "healthcare", 
+    "project_type": "web_application",
+    "description": "Comprehensive patient portal with appointment scheduling, telemedicine features, secure messaging, electronic health records, and prescription management",
+    "technologies": ["Vue.js", "Python", "Django", "PostgreSQL", "Docker", "AWS HIPAA"],
+    "results": "Reduced appointment no-shows by 40%, improved patient satisfaction by 65%, streamlined admin workflow by 50%",
+    "duration_weeks": 8,
+    "complexity": "medium",
+    "budget_range": "$15,000 - $20,000"
+  },
+  {
+    "title": "Enterprise CRM System for SalesForce Pro",
+    "industry": "enterprise",
+    "project_type": "enterprise_software",
+    "description": "Custom CRM solution with lead management, sales pipeline tracking, customer analytics, automated reporting, and third-party integrations",
+    "technologies": ["Angular", "Java", "Spring Boot", "MySQL", "Elasticsearch", "Kafka"],
+    "results": "35% increase in sales team productivity, 50% faster lead conversion, 90% automated reporting",
+    "duration_weeks": 20,
+    "complexity": "complex",
+    "budget_range": "$85,000 - $120,000"
+  },
+  {
+    "title": "Mobile Banking App for FinanceFirst",
+    "industry": "finance",
+    "project_type": "mobile_app",
+    "description": "Secure mobile banking application with biometric authentication, real-time transactions, investment tracking, budget management, and financial planning tools",
+    "technologies": ["React Native", "Node.js", "MongoDB", "Firebase", "Plaid API", "OAuth2"],
+    "results": "2M+ downloads in first year, 4.8/5 app store rating, 60% increase in mobile transactions",
+    "duration_weeks": 16,
+    "complexity": "complex",
+    "budget_range": "$70,000 - $85,000"
+  },
+  {
+    "title": "AI-Powered Analytics Dashboard for DataCorp",
+    "industry": "analytics",
+    "project_type": "web_application",
+    "description": "Business intelligence dashboard with real-time data visualization, predictive analytics, automated insights, and machine learning recommendations",
+    "technologies": ["React.js", "Python", "FastAPI", "PostgreSQL", "TensorFlow", "D3.js"],
+    "results": "70% faster decision making, 45% improvement in forecast accuracy, $500K cost savings",
+    "duration_weeks": 14,
+    "complexity": "complex",
+    "budget_range": "$55,000 - $75,000"
+  },
+  {
+    "title": "E-Learning Platform for EduTech Solutions",
+    "industry": "education",
+    "project_type": "web_application",
+    "description": "Comprehensive learning management system with video streaming, interactive quizzes, progress tracking, certification management, and collaborative tools",
+    "technologies": ["Next.js", "Node.js", "MongoDB", "AWS S3", "WebRTC", "Socket.io"],
+    "results": "500K+ active users, 92% course completion rate, 40% increase in student engagement",
+    "duration_weeks": 18,
+    "complexity": "complex",
+    "budget_range": "$60,000 - $80,000"
+  },
+  {
+    "title": "IoT Smart Home Management System",
+    "industry": "iot",
+    "project_type": "web_application",
+    "description": "Smart home control platform with device management, automation rules, energy monitoring, security features, and mobile companion app",
+    "technologies": ["Vue.js", "Python", "Django", "InfluxDB", "MQTT", "React Native"],
+    "results": "30% energy savings, 95% user satisfaction, 200+ compatible devices integrated",
+    "duration_weeks": 16,
+    "complexity": "complex",
+    "budget_range": "$45,000 - $65,000"
+  },
+  {
+    "title": "Supply Chain Management Portal for LogiCorp",
+    "industry": "logistics",
+    "project_type": "enterprise_software",
+    "description": "End-to-end supply chain visibility platform with inventory tracking, shipment monitoring, vendor management, and predictive analytics",
+    "technologies": ["Angular", "Java", "Spring Boot", "Oracle", "Apache Kafka", "Tableau"],
+    "results": "25% reduction in inventory costs, 40% faster delivery times, 60% improved visibility",
+    "duration_weeks": 22,
+    "complexity": "complex",
+    "budget_range": "$95,000 - $130,000"
+  },
+  {
+    "title": "Digital Marketplace for LocalBiz",
+    "industry": "retail",
+    "project_type": "web_application",
+    "description": "Multi-vendor marketplace with vendor onboarding, product catalog management, order processing, payment integration, and rating system",
+    "technologies": ["React.js", "Node.js", "PostgreSQL", "Redis", "Stripe", "Elasticsearch"],
+    "results": "1000+ vendors onboarded, $2M GMV in first year, 4.5/5 average rating",
+    "duration_weeks": 14,
+    "complexity": "medium",
+    "budget_range": "$35,000 - $50,000"
+  },
+  {
+    "title": "Telemedicine Platform for HealthConnect",
+    "industry": "healthcare",
+    "project_type": "web_application",
+    "description": "HIPAA-compliant telemedicine solution with video consultations, appointment scheduling, prescription management, and patient records integration",
+    "technologies": ["React.js", "Node.js", "MongoDB", "WebRTC", "Twilio", "HL7 FHIR"],
+    "results": "10K+ consultations completed, 98% uptime, 85% patient satisfaction score",
+    "duration_weeks": 12,
+    "complexity": "medium",
+    "budget_range": "$25,000 - $35,000"
+  },
+  {
+    "title": "Restaurant Management System for FoodChain",
+    "industry": "hospitality",
+    "project_type": "web_application",
+    "description": "Comprehensive restaurant management with POS integration, inventory tracking, staff scheduling, customer loyalty, and analytics dashboard",
+    "technologies": ["Vue.js", "Python", "Django", "PostgreSQL", "Redis", "Square API"],
+    "results": "20% increase in table turnover, 30% reduction in food waste, 95% order accuracy",
+    "duration_weeks": 10,
+    "complexity": "medium",
+    "budget_range": "$20,000 - $30,000"
+  },
+  {
+    "title": "Real Estate CRM for PropertyPro",
+    "industry": "real_estate",
+    "project_type": "web_application",
+    "description": "Real estate CRM with property listings, lead management, virtual tours, document management, and commission tracking",
+    "technologies": ["Angular", "C#", ".NET Core", "SQL Server", "Azure", "SignalR"],
+    "results": "50% faster property sales, 40% increase in lead conversion, 60% time savings on admin tasks",
+    "duration_weeks": 14,
+    "complexity": "medium",
+    "budget_range": "$30,000 - $45,000"
+  },
+  {
+    "title": "Fleet Management System for TransportCo",
+    "industry": "transportation",
+    "project_type": "web_application",
+    "description": "Fleet tracking and management platform with GPS monitoring, route optimization, maintenance scheduling, fuel management, and driver performance analytics",
+    "technologies": ["React.js", "Java", "Spring Boot", "MongoDB", "Google Maps API", "Apache Spark"],
+    "results": "25% fuel cost reduction, 35% improvement in delivery times, 90% maintenance compliance",
+    "duration_weeks": 16,
+    "complexity": "complex",
+    "budget_range": "$50,000 - $70,000"
+  },
+  {
+    "title": "Event Management Platform for EventMasters",
+    "industry": "events",
+    "project_type": "web_application",
+    "description": "Complete event management solution with registration, ticketing, attendee management, networking features, and analytics",
+    "technologies": ["Next.js", "Node.js", "PostgreSQL", "Stripe", "SendGrid", "Socket.io"],
+    "results": "500+ events managed, 100K+ registrations processed, 95% attendee satisfaction",
+    "duration_weeks": 12,
+    "complexity": "medium",
+    "budget_range": "$25,000 - $40,000"
+  },
+  {
+    "title": "Digital Banking Core System for CommunityBank",
+    "industry": "finance",
+    "project_type": "enterprise_software",
+    "description": "Core banking system with account management, transaction processing, loan origination, compliance reporting, and regulatory features",
+    "technologies": ["Java", "Spring Boot", "Oracle", "Apache Kafka", "Kubernetes", "Microservices"],
+    "results": "99.9% uptime, 1M+ transactions processed daily, full regulatory compliance achieved",
+    "duration_weeks": 32,
+    "complexity": "complex",
+    "budget_range": "$200,000 - $300,000"
+  }
+]
